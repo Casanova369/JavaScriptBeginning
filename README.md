@@ -1,4 +1,4 @@
-# Just some vanilla js projects
+## Just some vanilla js projects
 
 1. Color Flipper
 2. Counter
@@ -16,7 +16,7 @@
 14. Grocery Bud
 15. Slider
 
-#### Course Exclusive
+## Course Exclusive
 
 16. Counters (OOP)
 17. Gallery (OOP)
